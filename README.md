@@ -5,6 +5,11 @@ This project evaluates the scalability and performance of **Intrusion Detection 
 The goal is to design and benchmark machine learning models that can handle **Big Data network traffic** efficiently, focusing on both **accuracy** and **computational cost**.
 
 ---
+### Prerequisites
+- Apache Spark 3.5.6+
+- Python 3.8+
+- 8GB+ RAM recommended
+---
 
 ## Objectives
 - Implement and compare two ensemble algorithms:
